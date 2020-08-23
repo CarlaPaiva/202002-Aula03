@@ -1,0 +1,53 @@
+body{
+    font-family: Cambria;
+    margin: 0 auto;
+    width: 940px;
+}
+
+h1{
+    font-size: 28px;
+    font-weight: bold;
+    padding: 15px 0;
+    text-align: center;
+}
+
+form {
+    margin: 10px auto;
+    padding: 15px 5px;
+    width:445px;
+}
+
+form label{
+    display: block;
+    padding: 15px 0;
+}
+
+form textarea{
+    display: block;
+    margin: 10px 0;
+    resize: none;
+    width: 445px;
+}
+
+#resultados{
+    display: none;
+    margin: 0 auto;
+    padding: 10px 5px;
+    width: 450px;
+}
+
+#resultados h2{
+    padding: 5px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#resultados label{
+    display: block;
+}
+
+#resultados input{
+    display: block;
+    padding: 5px 0;
+    width: 450px;
+}
